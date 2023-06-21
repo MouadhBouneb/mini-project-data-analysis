@@ -4,7 +4,7 @@
 </p>
 
 -----
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MouadhBouneb/mini-project-data-analysis/main)
 ## DATASET :file_folder:
 le dataset contient les donnes suivants : 
 
