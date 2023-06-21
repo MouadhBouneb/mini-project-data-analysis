@@ -22,8 +22,8 @@ le dataset contient les donnes suivants :
 |  9 | E0    | 2018-12-08 00:00:00 | Southampton  | Burnley        |      0 |      0 | D     |      0 |      0 | D     | G Scott    |   18 |   16 |     3 |     6 |   10 |    9 |    8 |    5 |    0 |    1 |    0 |    0 |         0         |     49 |           34 |           0         |
 
 
-How can a soccer team maximize their goal-scoring efficiency by scoring the most goals while utilizing fewer shots than their opponents?
 
+Which soccer team holds the record for scoring the highest number of goals while taking the fewest shots compared to their opponents?
 
 The correlation between shots on target and goals scored is: 0.8851169677306291
 
